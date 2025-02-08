@@ -14,5 +14,13 @@ This will be used to create a mobile application for heart patients for research
 
 Our team designed the mobile app for the convenience of heart patients and doctors focusing on risk assessment and control of heart disease. Here, the risk of a person becoming a heart patient can be found earlier. And a person who is at risk of heart disease should be advised to follow a diet. Another unique feature here is the ability to automatically analyze the ECG reports and predict the risk situations that he or she may face in the future by comparing them with the previously obtained reports. A patient can find the nearest pharmacy to get the prescription through this mobile application as well. The overall system diagram is shown in Fig. 1 and a brief description of the four main functional components is mentioned subsequently.
 
-[Go to WebSite](https://cardiosync.github.io/CardioCare/ "Hover text here")
+[Go to WebSite](https://cardiosync.github.io/CardioCare/ "CardioCare Website")
+
+<h4>Mobile App Clint side development</h4>
+
+[Go to Clint-side](https://github.com/RolandSamidu/CardioCareApp.git "Frontend - Mobile App")
+
+<h4>CardioCare App Server side development</h4>
+
+[Go to Server-side](https://github.com/RolandSamidu/CardioCareApp_API.git "API - Mobile App(ML + Python)")
 
